@@ -9,10 +9,12 @@ The final application looks as per printscreens bellow:
 </p>
 
 ## Technologies used for this Project are:
-- ECMASCRIPT 6
+- HTML 5
+- TEMPLATING HTML
 - CSS3, SASS
 - NODE JS, NPM
-- TEMPLATING HTML
+- Nodemon
+
 
 ## Folders Structure:
 - data = data.json(info about laptop products);
