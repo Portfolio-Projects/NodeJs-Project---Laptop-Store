@@ -9,9 +9,8 @@ The final application looks as per printscreens bellow:
 </p>
 
 ## Technologies used for this Project are:
-- HTML 5
+- HTML 5, CSS3
 - TEMPLATING HTML
-- CSS3, SASS
 - NODE JS, NPM
 - Nodemon
 
