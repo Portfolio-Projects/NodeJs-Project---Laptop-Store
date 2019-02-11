@@ -25,5 +25,6 @@ The Laptop Store is a small Project, which includes a main page completely gener
 - Open the terminal and run the project using the npm command:
 
 ```
-        npm run start
+  npm run start
 ```
+
