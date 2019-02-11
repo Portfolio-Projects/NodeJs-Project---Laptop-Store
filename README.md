@@ -22,5 +22,5 @@ The final application looks as per printscreens bellow:
 - Clone or Download the Project via HTTPS or SSH;
 - Install nodemon via command -> npm install nodemon -g 
 - Set the server to run at the desired address either localhost or server
-- Open your browser and runf the Node App at the server address and port choosen. 
+- Open your browser and runf the Node App at the server address and port chosen. 
 
