@@ -2,9 +2,11 @@
 The Laptop Store is a small Project, which includes a main page completely generated on a Node.js web server. Includes functionalities like URL changes, every time we click on a button and page generation in Node.js each time the users clicks the Back btn. Everything is automatically generated in Node.js.
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Portfolio-Projects/NodeJs-Project---Laptop-Store/master/img/overview.png">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Portfolio-Projects/NodeJs-Project---Laptop-Store/master/img/product.png">
+</p>
 
 ## Technologies used for this Project are:
 - ECMASCRIPT 6
@@ -24,8 +26,4 @@ The Laptop Store is a small Project, which includes a main page completely gener
 ```
         npm run start
 ```
-<p align="center">
-  <img src="">
-</p>
-
 
